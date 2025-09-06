@@ -61,7 +61,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/MVFran/MVFran/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/MVFran/output/snake.svg" alt="Snake animation" />
 
 ###
 
