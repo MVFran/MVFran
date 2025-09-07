@@ -2,7 +2,11 @@
 
 ###
 
-<p align="left">I'm a Physicist, and I would like to focus on Data Science and Artificial Inteligence.<br><br>My interests:<br>Neural Networks<br>Data Science<br>Object-oriented programming<br><br>See you!</p>
+<p align="left">I am a physicist with a strong background in Python, Julia, and R, specializing in data science and with a keen interest in machine learning, particularly neural networks.
+
+I am working on my thesis at the Institute of Physics at UNAM, where I simulate molecular dynamics in large atomic clusters using AI-based models.
+
+<br>**My interests:**<br><br>Neural Networks<br>Data Science<br>Artificial Intelligence<br>Databases<br>Object-oriented programming<br><br>See you!</p>
 
 ###
 
@@ -15,11 +19,13 @@
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
-  <img width="12" />
+  <img width="15" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" height="30" alt="rstudio logo"  />
-  <img width="12" />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/julia/julia-original.svg" height="30" alt="julia logo"  />
+  <img width="15" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/latex/latex-original.svg" height="30" alt="latex logo"  />
+  <img width="15" />
 </div>
 
 ###
