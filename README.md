@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I am a physicist with a strong background in Python, Julia, and R, specializing in data science and with a keen interest in machine learning, particularly neural networks.
+<p align="left">I am a physicist with a strong background in Python, Julia, and R, I am deeply interested in the potential of Data Science and Machine Learning. I am committed to continuous learning and growth in this dynamic field.
 
 I am working on my thesis at the Institute of Physics at UNAM, where I simulate molecular dynamics in large atomic clusters using AI-based models.
 
